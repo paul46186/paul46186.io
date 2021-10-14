@@ -1,7 +1,13 @@
 ## Welcome to Paul's Pages
 
 ### Intro
-I am a dedicated grad student at Purdue University with demonstrated leadership qualities, industrial insights, work ethic, strong communication, and analytical skills seeking Business Analysts career. Having prior experience gathering, cleaning, and visualizing data in order to analyze it and make informed decisions. Excellent for SQL, spreadsheets, Tableau, R, and Python. I led a team of five people through a special topic research project, "Assembly line balancing problem with machines and skilled workers constraints". Recently completed the Google Data Analytics Certificate - a comprehensive, hands-on program that encompasses the entire data analysis process.
+I am studying MS Business Analytics and Information Management in Purdue University. With prior experience gathering, cleaning, and visualizing data, I am able to analyze data and make informed decisions with business acumen. Recently completed the Google Data Analytics Certificate - a comprehensive, hands-on program that encompasses the entire data analysis process.
+
+In undergrad, I majored in Industrial and Information Management. I led a team of five people through a special topic research project, "Assembly line balancing problem with machines and skilled workers constraints". 
+
+### My skill set
+SQL, Excel VBA, Tableau, R, and Python. 
+
 
 ### Markdown
 
