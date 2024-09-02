@@ -63,11 +63,10 @@
       text-decoration: none; /* Remove default underline */
   }
   
-
 .nav-link {
     position: relative;
     color: black;
-    font-size: 125%;
+    font-size: 100%;
     text-decoration: none;
     line-height: 1; /* Reduces the space within the text line */
 }
@@ -84,7 +83,6 @@
     background: black;
     transition: width 0.3s ease;
 }
-
 
 .nav-link:hover::after {
     width: 75%; /* Set the width of the underline to 50% of the text width */
